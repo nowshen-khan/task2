@@ -1,0 +1,27 @@
+{
+	"name": "task2",
+	"version": "1.0.0",
+	"main": "generate.js",
+	"dependencies": {
+		"csv-parser": "^3.2.0",
+		"fs-extra": "^11.3.2"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node generate.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nowshen-khan/task2.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "module",
+	"bugs": {
+		"url": "https://github.com/nowshen-khan/task2/issues"
+	},
+	"homepage": "https://github.com/nowshen-khan/task2#readme",
+	"description": ""
+}
